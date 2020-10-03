@@ -1,2 +1,13 @@
-# TicTacToe
-TicTacToe is one of the most popular game. Using JavaScript, we created 3 domains of interface: board,human and computer. Here in board , first we have to check whether the anyone is winner or not. IF yes, then code ceases to work. We have winning conditions declared. 
+## TicTacToe
+## ChakkiShoon
+Wanna have some fun....
+This is the game you we had been playing since our childhood
+<p align="center">
+    <img src="https://thumbs.gfycat.com/WelcomeConcreteHellbender-size_restricted.gif" width="300px">
+</p>
+ 
+### Try this code
+## Knowledge required:
+    HTML
+    CSS
+    JAVASCRIPT
