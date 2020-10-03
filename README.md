@@ -1,5 +1,4 @@
 ## TicTacToe
-## ChakkiShoon
 Wanna have some fun....
 This is the game you we had been playing since our childhood
 <p align="center">
