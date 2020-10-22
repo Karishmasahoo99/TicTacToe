@@ -75,3 +75,8 @@ function HumanPlayer(board) {
     board.positions.forEach(el => el.removeEventListener('click', handleTurnTaken));
   }
 }
+
+const btnPlayAgain = document.getElementById("play-again");
+btnPlayAgain.addEventListener('click', () => {
+  document.location.reload(true);
+});

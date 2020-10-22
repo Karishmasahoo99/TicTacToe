@@ -1,0 +1,53 @@
+* {
+  background-color: #0b0;
+}
+.container {
+  width: 320px;
+  height: 320px;
+  margin: auto;
+  margin-top: 100px;
+}
+h1 {
+  text-align: center;
+  color: pink;
+}
+.border-r {
+  border-bottom: 10px solid black;
+}
+.row {
+  height: 100px;
+}
+.col {
+  height: 100px;
+  width: 100px;
+  float: left;
+  font-size: 100px;
+  text-align: center;
+  line-height: 100px;
+}
+.border-c {
+  border-right: 10px solid black;
+}
+.col:hover {
+  background-color: lightgreen;
+}
+
+.winner {
+  color: blue;
+}
+
+#play-again {
+  background-color: rgb(13, 36, 39);
+  border-radius: 8px;
+  margin-left: 27%;
+  margin-top: 5%;
+  border: none;
+  color: white;
+  font-size: 16px;
+  padding: 15px 32px;
+  text-decoration: none;
+}
+
+#play-again:hover {
+  cursor: pointer;
+}
